@@ -24,3 +24,14 @@ Here's how you can use the function:
 4. Replace the `auth_token` variable with your actual authorization token.
 5. Call the `process_audio_file` function with the specified parameters.
 
+### Contributors
+
+ Project Officers
+
+- [Preethi T](mailto:preethit@snuchennai.edu.in)
+- [Sooriya S](mailto:sooriyas@snuchennai.edu.in)
+- [Malarvizhi M](mailto:malarvizhim@snuchennai.edu.in)
+
+ Project Intern
+
+- [Adithya V](mailto:adithya21110421@snuchennai.edu.in)
