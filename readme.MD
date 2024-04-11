@@ -11,7 +11,8 @@ It utilizes the `requests` library to send HTTP requests.
 * auth_token :This token is used to authenticate your requests to the API. Make sure to replace the placeholder token with your actual authorization token.
 
 ## Output:
-The function will print the response received from the API endpoint. If the status code is 200, it means the request was successful, and the extracted data will be printed.
+The function will print the response received from the API endpoint. 
+If the status code is 200, it means the request was successful, and the extracted data will be printed.
 If the status code is 500, it indicates a connection error with the host, and the function will prompt you to try again.
 For any other status code, an error message along with the status code will be printed.
 
