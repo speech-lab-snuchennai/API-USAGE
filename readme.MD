@@ -36,6 +36,11 @@ Here's how you can use the function:
 
 - [Adithya V](mailto:adithya21110421@snuchennai.edu.in)
 
+## Demo
+
+🌐 [Project Demo – SpeechLab, SNU Chennai](https://speech.snuchennai.edu.in/)
+
+
 ## License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
